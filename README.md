@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratyush Bhatt
-- 👀 I’m Passionate to work in the field of Robotics, Mechanical Design and AI. Also fond of WebD and competitive programming.
-- 🌱 I’m currently pursuing BTech in Mechanical Engineering from Delhi Technological University (Formerly DCE). 
+- 👀 I’m Passionate about working in Software Design, Deep Learning and Robotics. I am also fond of WebD and competitive programming.
+- 🌱 2023 BTech graduate from Delhi Technological University (Formerly DCE). 
 - 📫 You can connect with me on linkedin:- https://www.linkedin.com/in/pratyush-bhatt-7a6b56208/
 
 <!---
